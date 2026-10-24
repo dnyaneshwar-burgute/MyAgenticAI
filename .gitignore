@@ -1,1 +1,4 @@
 SmallTransformer/.venv
+SmallTransformer/.env
+llm_examples/.venv
+llm_examples/.env

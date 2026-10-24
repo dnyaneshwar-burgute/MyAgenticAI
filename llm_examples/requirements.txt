@@ -1,0 +1,8 @@
+python-dotenv
+ollama
+openai
+tiktoken
+openai-agents
+autogen-agentchat
+autogen-ext[openai]
+autogen-ext[anthropic]
