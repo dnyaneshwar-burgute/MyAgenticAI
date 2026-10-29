@@ -6,3 +6,5 @@ rag/.venv
 rag/.env
 AttentionMechanismBert/.venv
 AttentionMechanismBert/.env
+ComparisionEncoderDecoder/.venv
+ComparisionEncoderDecoder/.env
