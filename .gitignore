@@ -4,3 +4,5 @@ llm_examples/.venv
 llm_examples/.env
 rag/.venv
 rag/.env
+AttentionMechanismBert/.venv
+AttentionMechanismBert/.env
