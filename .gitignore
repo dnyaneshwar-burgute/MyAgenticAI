@@ -7,4 +7,6 @@ rag/.env
 AttentionMechanismBert/.venv
 AttentionMechanismBert/.env
 ComparisionEncoderDecoder/.venv
-ComparisionEncoderDecoder/.env
+ComparisionEncoderDecoder/.envTokenizeAndContextWindow/
+TokenizeAndContextWindow/.venv
+TokenizeAndContextWindow/.env
